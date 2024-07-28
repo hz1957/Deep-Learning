@@ -1,1 +1,1 @@
-# CS7643-DL
+Deep Learning Homeworks
