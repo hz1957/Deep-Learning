@@ -1,0 +1,2 @@
+conda create --prefix ./cs7643-a1 environment.yaml
+conda activate ./cs7643-a1
